@@ -1,0 +1,27 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Maven
+target/
+pom.xml~
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper (optional to ignore)
+.mvn/
+mvnw
+mvnw.cmd
