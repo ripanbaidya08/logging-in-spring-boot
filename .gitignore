@@ -25,3 +25,6 @@ Thumbs.db
 .mvn/
 mvnw
 mvnw.cmd
+
+# Backup files
+* .java~
